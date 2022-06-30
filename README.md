@@ -7,7 +7,7 @@
 - [x] вывод ошибок со стороны бэка в формате тостов с использованием react-toastify
 - [x] функционал логина/разлогина, регистрации/удаления пользователя 
 - [x] drag-and-drop перенос тасок/колонок с помощью react-beautiful-dnd
-
+- [x] скелетон при загрузке данных
 ## Деплой: https://rs-projector.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/62184992/176704967-58268821-0d4d-4abb-b9f2-e2db285fa561.png)
 
